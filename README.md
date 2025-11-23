@@ -38,23 +38,23 @@ To address this, I created a basic Task Organizer that helps users keep track of
 
 #### Menu
 
-![App Preview](screenshots/Menu.png)
+![Menu](screenshot/Menu.png)
 
 #### Add Task
 
-![App Preview](screenshots/ADD_TASK.png)
+![Add Task](screenshot/ADD_TASK.png)
 
 #### View Task
 
-![App Preview](screenshots/VIEW_TASK.png)
+![View Task](screenshot/VIEW_TASK.png)
 
 #### Complete Task
 
-![App Preview](screenshots/COMPLETE_TASK.png)
+![Complete Task](screenshot/COMPLETE_TASK.png)
 
 #### EXIT
 
-![App Preview](screenshots/EXIT.png)
+![Exit](screenshot/EXIT.png)
 
 **All screenshots of the program running are placed in the */screenshots* folder.**
 
